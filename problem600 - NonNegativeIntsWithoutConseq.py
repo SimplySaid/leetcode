@@ -1,0 +1,3 @@
+def findIntegers (num):
+    dp = []
+    

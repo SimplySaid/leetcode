@@ -1,0 +1,1 @@
+def isIdealPermutation(A):
